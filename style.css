@@ -11,6 +11,19 @@ body{
     background-color: #f2e7bf;
     border: solid 1px black;
 }
+.cabelo{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    background-color: brown;
+    height: 30%;
+}
+.parteCabe{
+    
+    width: 50%;
+    background-color: #f2e7bf;
+    height: 30%;
+}
 .uneCorpo, .uneCorpo2{
     background-color: blueviolet;
     display: flex;
