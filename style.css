@@ -1,0 +1,47 @@
+body{
+    background-color: lightblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cabeca{
+    width: 130px;
+    height: 130px;
+    background-color: #f2e7bf;
+}
+.uneCorpo, .uneCorpo2{
+    background-color: blueviolet;
+    display: flex;
+    height: auto;
+    width: auto;
+}
+
+.braco1, .braco2{
+    background-color: #f2e7bf;
+    width: 60px;
+    height: 150px;
+    border: solid 1px black;
+}
+.tronco{
+    background-color: aqua;
+    height: 150px;
+    width: 130px;
+    border-top: solid 1px  black;
+    border-bottom: 1px solid black;
+}
+
+.perna1, .perna2{
+    background-color: yellow;
+    width: 60px;
+    height: 150px;
+    margin: 1px;
+}
+
+/* ROUPA DO AVATAR */
+.blusa{
+    background-color: brown;
+    width: 100%;
+    height: 30%;
+    border-bottom: solid 1px black;
+}
