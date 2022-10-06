@@ -46,7 +46,7 @@ body{
 .iris1, .iris2{
     width: 45%;
     height: 100%;
-    background-color: blue;
+    background-color: rgba(165, 42, 42, 0.74);
 }
 .aliNariz{
     display: flex;
@@ -59,6 +59,24 @@ body{
     height: 100%;
     width: 30%;
     background-color: lightsalmon;
+}
+.aliBarba{
+    width: 100%;
+    height: 25%;
+    display: flex;
+    justify-content: center;
+}
+.barba{
+    display: flex;
+    justify-content: center;
+    background-color: burlywood;
+    width: 50%;
+    height: 100%;
+}
+.organizaBarba{
+    width: 50%;
+    height: 50%;
+    background-color: #f2e7bf;
 }
 
 .uneCorpo, .uneCorpo2{
@@ -86,7 +104,7 @@ body{
 }
 
 .perna1, .perna2{
-    background-color: brown;
+    background-color: black;
     width: 60px;
     height: 150px;
     margin: 1px;
