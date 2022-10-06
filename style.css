@@ -9,6 +9,7 @@ body{
     width: 130px;
     height: 130px;
     background-color: #f2e7bf;
+    border: solid 1px black;
 }
 .uneCorpo, .uneCorpo2{
     background-color: blueviolet;
@@ -32,10 +33,11 @@ body{
 }
 
 .perna1, .perna2{
-    background-color: yellow;
+    background-color: brown;
     width: 60px;
     height: 150px;
     margin: 1px;
+    border: solid 1px black;
 }
 
 /* ROUPA DO AVATAR */
@@ -44,4 +46,9 @@ body{
     width: 100%;
     height: 30%;
     border-bottom: solid 1px black;
+}
+.calca{
+    background-color: blue;
+    height: 80%;
+    width: 100%;
 }
