@@ -3,7 +3,7 @@
 <img src="https://media.discordapp.net/attachments/999712721941581977/1027404906929328138/unknown.png?width=192&height=400">
 
 > O objetivo deste mini projeto pessoal, desenhar um avatar do minecraft, a partir de uma imagem do google.<br/>
-> Visualize aqui : ""
+> Visualize aqui : "https://marlonalvss.github.io/DESENHANDO-MINECRAFT/"
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
