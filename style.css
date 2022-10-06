@@ -23,7 +23,31 @@ body{
     width: 50%;
     background-color: #f2e7bf;
     height: 30%;
+    border: solid 1px black;
+    border-bottom: 0px;
 }
+.uneOlhos{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    height: 15%;
+}
+.olho1, .olho2{
+    background-color: white;
+    width: 30%;
+    height: 100%;
+}
+.olho1{
+    display: flex;
+    justify-content: flex-end;
+}
+.iris1, .iris2{
+    width: 45%;
+    height: 100%;
+    background-color: blue;
+}
+
 .uneCorpo, .uneCorpo2{
     background-color: blueviolet;
     display: flex;
@@ -67,6 +91,7 @@ body{
     background-color: aqua;
     height: 80%;
     width: 100%;
+    border-bottom: solid 1px;
 }
 .roupaTro1{
     background-color:  #f2e7bf;
