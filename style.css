@@ -80,7 +80,7 @@ body{
 }
 /* ------------- PARTE DO CORPO ------------ */ 
 .uneCorpo, .uneCorpo2{
-    background-color: blueviolet;
+    
     display: flex;
     height: auto;
     width: auto;
