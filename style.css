@@ -1,109 +1,128 @@
-body{
+body {
     background-color: lightgreen;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
-/* ------------- PARTE DA CABEÇA ------------ */ 
-.cabeca{
+
+/* ------------- PARTE DA CABEÇA ------------ */
+.cabeca {
     width: 130px;
     height: 130px;
     background-color: #f2e7bf;
     border: solid 1px black;
     justify-content: center;
 }
-.cabelo{
+
+.cabelo {
     display: flex;
     align-items: flex-end;
     justify-content: center;
     background-color: brown;
     height: 30%;
 }
-.parteCabe{
-    
+
+.parteCabe {
+
     width: 50%;
     background-color: #f2e7bf;
     height: 30%;
     border: solid 1px black;
     border-bottom: 0px;
 }
-.uneOlhos{
+
+.uneOlhos {
     margin-top: 20px;
     display: flex;
     justify-content: space-around;
     width: 100%;
     height: 15%;
 }
-.olho1, .olho2{
+
+.olho1,
+.olho2 {
     background-color: white;
     width: 30%;
     height: 100%;
 }
-.olho1{
+
+.olho1 {
     display: flex;
     justify-content: flex-end;
 }
-.iris1, .iris2{
+
+.iris1,
+.iris2 {
     width: 45%;
     height: 100%;
     background-color: rgba(165, 42, 42, 0.74);
 }
-.aliNariz{
+
+.aliNariz {
     display: flex;
     justify-content: center;
     width: 100%;
     height: 15%;
-    
+
 }
-.nariz{
+
+.nariz {
     height: 100%;
     width: 30%;
     background-color: lightsalmon;
 }
-.aliBarba{
+
+.aliBarba {
     width: 100%;
     height: 25%;
     display: flex;
     justify-content: center;
 }
-.barba{
+
+.barba {
     display: flex;
     justify-content: center;
     background-color: burlywood;
     width: 50%;
     height: 100%;
 }
-.organizaBarba{
+
+.organizaBarba {
     width: 50%;
     height: 50%;
     background-color: #f2e7bf;
 }
-/* ------------- PARTE DO CORPO ------------ */ 
-.uneCorpo, .uneCorpo2{
-    
+
+/* ------------- PARTE DO CORPO ------------ */
+.uneCorpo,
+.uneCorpo2 {
+
     display: flex;
     height: auto;
     width: auto;
 }
 
-.braco1, .braco2{
+.braco1,
+.braco2 {
     background-color: #f2e7bf;
     width: 60px;
     height: 150px;
     border: solid 1px black;
 }
-.tronco{
+
+.tronco {
     display: flex;
     flex-direction: column;
     align-items: center;
     background-color: aqua;
     height: 150px;
     width: 130px;
-    border-top: solid 1px  black;
+    border-top: solid 1px black;
     border-bottom: 1px solid black;
 }
 
-.perna1, .perna2{
+.perna1,
+.perna2 {
     background-color: black;
     width: 60px;
     height: 150px;
@@ -112,31 +131,34 @@ body{
 }
 
 /* ROUPA DO AVATAR */
-.blusa{
+.blusa {
     background-color: aqua;
     width: 100%;
     height: 30%;
     border-bottom: solid 1px black;
 }
-.calca{
+
+.calca {
     background-color: aqua;
     height: 80%;
     width: 100%;
     border-bottom: solid 1px;
 }
-.roupaTro1{
-    background-color:  #f2e7bf;
+
+.roupaTro1 {
+    background-color: #f2e7bf;
     width: 40%;
     height: 8%;
 }
-.roupaTro2{
-    background-color:  #f2e7bf;
+
+.roupaTro2 {
+    background-color: #f2e7bf;
     width: 30%;
     height: 5%;
 }
 
 /* LINKEDIN */
-a{
+a {
     margin-top: 10px;
     width: 100%;
     display: flex;
@@ -144,9 +166,10 @@ a{
     text-decoration: none;
     font-size: large;
     color: black;
-   
+
 }
-img{
+
+img {
     width: 20px;
     height: 100%;
 }
